@@ -107,7 +107,7 @@ OK, building the project should be pretty easy at this point--the templates are 
 
 If it doesn't, you'll need to diagnose this before you can complete the homework--and there's not much I can tell you ahead of time to help you diagnose this.
 
-> Sadly, one of the constants in software development is the need to debug and diagnose installation problems on your machine yourself--very rarely can anybody else do it for you. I wish it were otherwise--I hate having to do it myself--but it's a necessary part of 
+> Sadly, one of the constants in software development is the need to debug and diagnose installation problems on your machine yourself--very rarely can anybody else do it for you. I wish it were otherwise--I hate having to do it myself--but it's a necessary part of
 
 If it's running, you can leave it running, or click the big red square "stop" button in the same toolbar area as where you found the green triangle "play" button. Not surprisingly, this will stop your app (but keep the emulator running).
 
@@ -145,3 +145,6 @@ We will clone and build it from your GitHub repo. We will not get code from any 
     * 1 pt: Choose another developer option from the Developer Options screen, research what it's used for, and write up a quick paragraph (in your copy of this README file) on whether you believe you will use this feature during class this quarter.
 
 When you turn in the homework in Canvas, put in the link to your GitHub repo.
+
+Extra Credit 2:
+One developer option is "Show Taps". Show taps displays a dot on the screen when any "finger" is currently touching the screen. I can imagine this feature being used in this class for showing how a certain app works, if someone is doing a screen recording it could be helpful to see where the mouse is and where its being clicked through the show taps option.
